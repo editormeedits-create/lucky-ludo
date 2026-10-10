@@ -1,0 +1,9 @@
+{
+  "name":"Lucky Ludo Offline",
+  "short_name":"Lucky Ludo",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#eef2f8",
+  "theme_color":"#171c2d",
+  "description":"Original offline four-player Ludo prototype"
+}
